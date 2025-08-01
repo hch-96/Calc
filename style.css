@@ -1,0 +1,18 @@
+.buttons{
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+}
+
+.buttons button{
+  flex: 1 0 25%;
+  height: 50px;
+  font-size: 18px;
+}
+
+.display{
+  height:60px;
+  width: 200px;
+  background-color: grey;
+  margin-bottom: 10px;
+}
