@@ -1,2 +1,2 @@
 # Calc
-TOP - Creating a Calc
+TOP - Creating a simple Calc
